@@ -9,7 +9,6 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: 'GLOBALUXE Consulting - Building Tomorrow&apos;s Solutions Today',
   description: 'Global consulting and digital solutions company driving growth, innovation, and sustainable success for organizations worldwide.',
-  generator: 'v0.app',
   icons: {
     icon: [
       {
