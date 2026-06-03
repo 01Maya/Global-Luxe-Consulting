@@ -1,1 +1,1 @@
-# Global Luxe Consulting
+# Global Luxe Consulting 📊
