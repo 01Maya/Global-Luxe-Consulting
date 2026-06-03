@@ -14,4 +14,4 @@ This landing page combines luxury aesthetics with modern frontend interactions t
 The design focuses on responsive layouts, smooth section navigation, animated transitions, hover interactions, and elegant content presentation.  
 Built with scalable UI architecture and reusable components, the website maintains strong visual consistency across all sections.
 
-
+---
