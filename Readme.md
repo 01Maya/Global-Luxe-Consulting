@@ -8,7 +8,7 @@ The website showcases consulting services, company vision, worldwide presence, t
 
 ---
 
-## Description
+## Description 🪄
 
 This landing page combines luxury aesthetics with modern frontend interactions to create a professional global consulting brand identity.  
 The design focuses on responsive layouts, smooth section navigation, animated transitions, hover interactions, and elegant content presentation.  
