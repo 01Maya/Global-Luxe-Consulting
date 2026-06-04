@@ -15,3 +15,5 @@ The design focuses on responsive layouts, smooth section navigation, animated tr
 Built with scalable UI architecture and reusable components, the website maintains strong visual consistency across all sections.
 
 ---
+
+# Features
