@@ -19,3 +19,4 @@ Built with scalable UI architecture and reusable components, the website maintai
 # Features
 
 - Fully Responsive Design
+- Scroll-to-Top Button
