@@ -22,3 +22,4 @@ Built with scalable UI architecture and reusable components, the website maintai
 - Scroll-to-Top Button
 - Premium Hover Effects
 - Modern Enterprise Layout
+- Smooth Section Reveal Effects
