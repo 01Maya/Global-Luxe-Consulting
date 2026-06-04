@@ -20,3 +20,4 @@ Built with scalable UI architecture and reusable components, the website maintai
 
 - Fully Responsive Design
 - Scroll-to-Top Button
+- Premium Hover Effects
