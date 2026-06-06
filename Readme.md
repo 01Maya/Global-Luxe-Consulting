@@ -27,3 +27,6 @@ Built with scalable UI architecture and reusable components, the website maintai
 ---
 
 # Sections 🗂️
+
+### Navbar
+Sticky responsive navigation bar with smooth section scrolling and animated mobile menu.
