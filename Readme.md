@@ -31,7 +31,6 @@ Built with scalable UI architecture and reusable components, the website maintai
 ### Navbar
 Sticky responsive navigation bar with smooth section scrolling and animated mobile menu.
 
-### Hero
-
-
+### Hero Section
+Displays premium company introduction with luxury typography, CTA buttons, and corporate visual banner.
 
