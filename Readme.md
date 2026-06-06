@@ -46,4 +46,5 @@ Displays consulting and enterprise services with modern hover cards and animated
 ### Global Presence
 Showcases worldwide operations using an animated world map and global statistics.
 
-
+### Testimonials
+Features client reviews and trust indicators with clean responsive testimonial cards.
