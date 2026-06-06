@@ -26,4 +26,4 @@ Built with scalable UI architecture and reusable components, the website maintai
 
 ---
 
-# Sections
+# Sections 🗂️
