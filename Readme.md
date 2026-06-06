@@ -40,4 +40,6 @@ Highlights company purpose, vision, and mission using elegant animated cards.
 ### About Us
 Shows experience, happy clients, company growth metrics, and collaboration highlights.
 
+### Services
+Displays consulting and enterprise services with modern hover cards and animated layouts.
 
