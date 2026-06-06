@@ -36,3 +36,8 @@ Displays premium company introduction with luxury typography, CTA buttons, and c
 
 ### Vision & Mission
 Highlights company purpose, vision, and mission using elegant animated cards.
+
+### About Us
+Shows experience, happy clients, company growth metrics, and collaboration highlights.
+
+
