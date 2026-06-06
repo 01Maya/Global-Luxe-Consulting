@@ -25,3 +25,5 @@ Built with scalable UI architecture and reusable components, the website maintai
 - Smooth Section Reveal Effects
 
 ---
+
+# Sections
