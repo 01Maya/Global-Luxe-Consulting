@@ -34,3 +34,5 @@ Sticky responsive navigation bar with smooth section scrolling and animated mobi
 ### Hero Section
 Displays premium company introduction with luxury typography, CTA buttons, and corporate visual banner.
 
+### Vision & Mission
+Highlights company purpose, vision, and mission using elegant animated cards.
