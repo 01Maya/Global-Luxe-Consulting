@@ -43,3 +43,7 @@ Shows experience, happy clients, company growth metrics, and collaboration highl
 ### Services
 Displays consulting and enterprise services with modern hover cards and animated layouts.
 
+### Global Presence
+Showcases worldwide operations using an animated world map and global statistics.
+
+
