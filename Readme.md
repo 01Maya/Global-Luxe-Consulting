@@ -55,8 +55,7 @@ Interactive contact form with company information and modern glassmorphism styli
 ### Footer
 Contains quick navigation links, social media icons, copyright section, and smooth scroll-to-top interaction.
 
-
-
+---
 
 
 
