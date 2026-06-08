@@ -61,4 +61,7 @@ Contains quick navigation links, social media icons, copyright section, and smoo
 
 - Next.js
 - Tailwind CSS
+- Framer Motion
+
+
 
