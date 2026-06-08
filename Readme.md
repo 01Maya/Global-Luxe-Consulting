@@ -59,3 +59,5 @@ Contains quick navigation links, social media icons, copyright section, and smoo
 
 # Tech Stack 📐
 
+- Next.js
+
