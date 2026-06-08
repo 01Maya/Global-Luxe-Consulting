@@ -48,3 +48,7 @@ Showcases worldwide operations using an animated world map and global statistics
 
 ### Testimonials
 Features client reviews and trust indicators with clean responsive testimonial cards.
+
+### Contact Section
+Interactive contact form with company information and modern glassmorphism styling.
+
