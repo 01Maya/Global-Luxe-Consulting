@@ -76,5 +76,5 @@ https://global-luxe-consulting.vercel.app
 
 ![GLOBALUXE Screenshot](./public/global-luxe-preview.jpg)
 
-
+---
 
