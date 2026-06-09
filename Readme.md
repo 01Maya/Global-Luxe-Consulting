@@ -71,3 +71,7 @@ Contains quick navigation links, social media icons, copyright section, and smoo
 https://global-luxe-consulting.vercel.app
 
 ---
+
+# Screenshot
+
+
