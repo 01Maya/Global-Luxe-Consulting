@@ -91,3 +91,9 @@ git clone https://github.com/your-username/globaluxe.git
 ```bash
 cd globaluxe
 ```
+
+## 3. Install Dependencies
+
+```bash
+npm install
+```
