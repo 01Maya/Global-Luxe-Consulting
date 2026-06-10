@@ -85,3 +85,9 @@ https://global-luxe-consulting.vercel.app
 ```bash
 git clone https://github.com/your-username/globaluxe.git
 ```
+
+## 2. Navigate to Project
+
+```bash
+cd globaluxe
+```
