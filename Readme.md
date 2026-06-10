@@ -78,7 +78,7 @@ https://global-luxe-consulting.vercel.app
 
 ---
 
-# Installation
+# Installation 📐
 
 ## 1. Clone Repository
 
