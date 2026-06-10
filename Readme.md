@@ -80,3 +80,8 @@ https://global-luxe-consulting.vercel.app
 
 # Installation
 
+## 1. Clone Repository
+
+```bash
+git clone https://github.com/your-username/globaluxe.git
+```
