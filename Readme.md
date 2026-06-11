@@ -97,3 +97,9 @@ cd globaluxe
 ```bash
 npm install
 ```
+
+## 4. Run Development Server
+
+```bash
+npm run dev
+```
