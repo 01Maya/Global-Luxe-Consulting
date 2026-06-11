@@ -74,7 +74,7 @@ https://global-luxe-consulting.vercel.app
 
 # Screenshot 📸
 
-![GLOBALUXE Screenshot](./public/global-luxe-preview.jpg)
+<img width="1763" height="7567" alt="Image" src="https://github.com/user-attachments/assets/1670e0a5-deef-4f8c-8166-533fdb503e79" />
 
 ---
 
