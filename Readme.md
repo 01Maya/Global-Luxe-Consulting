@@ -118,5 +118,4 @@ This project is created for educational and portfolio purposes.
 
 ---
 
-
-
+# Author
