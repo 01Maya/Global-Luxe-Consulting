@@ -1,4 +1,4 @@
-# GLOBALUXE — Premium Global Consulting Portfolio 📊
+# 📈 GLOBALUXE — Premium Global Consulting Portfolio 📊
 
 
 ## Overview 📄
